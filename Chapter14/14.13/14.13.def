@@ -1,0 +1,12 @@
+COUNTER(char)
+COUNTER(unsigned char)
+COUNTER(short int)
+COUNTER(unsigned short int)
+COUNTER(int)
+COUNTER(unsigned int)
+COUNTER(long int)
+COUNTER(unsigned long int)
+COUNTER(float)
+COUNTER(double)
+COUNTER(long double)
+#undef COUNTER
